@@ -1,0 +1,1 @@
+﻿# SOSHOESPORT Core Architecture`n`n- **API Gateway**: Main entry point for frontend.`n- **Auth Service**: Registration, Login, Security & JWT.`n- **User Service**: Player profiles, Teams, Wallet.`n- **Match Service**: Tournaments, Brackets, Matchmaking.`n`n**Tech Stack**: Node.js, Express, TypeScript, Prisma, PostgreSQL, Docker.
